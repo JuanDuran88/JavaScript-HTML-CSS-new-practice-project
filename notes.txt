@@ -1,0 +1,28 @@
+ToDos
+
+1. Build the project
+    - creating the folder
+    - adding files
+    - connecting files
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolio item grid
+    - images
+    - titles
+    - descriptions
+    - animations
+    - javascript
+
+4. About page
+    - image
+    - split column layout
+    - content
+
+Selector on the Chrome Console:
+$('.portfolio-item-wrapper')
+<div class=​"portfolio-item-wrapper">​…​</div>​
+const portfolioOtems = document.querySelectorAll('.portfolio-item-wrapper')
+portfolioItems //returns the 12 items from the portfolio-item-wrapper.
+NodeList(12)
